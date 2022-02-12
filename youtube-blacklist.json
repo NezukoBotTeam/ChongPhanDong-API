@@ -1,170 +1,289 @@
-[
-  {
-    "youtubeid": "UCs_qVVbQ0Oc-IuN-3JKWRZw",
-    "type": "channel",
-    "name": "N10Tv",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UCqe1gLP3zFDmcQ-HCjP1Xbg",
-    "type": "channel",
-    "name": "N10Tv-2",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UCJDyIKGZ9zpTKDTEXpivGZw",
-    "type": "channel",
-    "name": "Việt Tân",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UCJDyIKGZ9zpTKDTEXpivGZw",
-    "type": "channel",
-    "name": "RFA Tiếng Việt",
-    "org": "RFA"
-  },
-  {
-    "youtubeid": "UCRdD55JrlRDzHeec3bKrH4g",
-    "type": "channel",
-    "name": "VOA Tiếng Việt",
-    "org": "VOA"
-  },
-  {
-    "youtubeid": "UCzbwE8kBBVk-ZyP2QtNMAGw",
-    "type": "channel",
-    "name": "VIETV DC",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UC2sK_WvVrsT3CP825jpmIlg",
-    "type": "channel",
-    "name": "Vietnam's Nation Council Television",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UC-7aTmBwnvSANfF8FNAkq_g",
-    "type": "channel",
-    "name": "Saigon News",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UCxdIIeox5tjRKyzooPJwJkg",
-    "type": "channel",
-    "name": "Bonny Vlogs",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UC1BSSp03QV1bgpJxP9W3yEw",
-    "type": "channel",
-    "name": "PHONG TRAN",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UC3-i7r1eM2aSkDLmD46obWA",
-    "type": "channel",
-    "name": "Mối Hoạ Trung Hoa",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UC0knPfgf9GnP4JclyeSLFEQ",
-    "type": "channel",
-    "name": "trật tự thế giới",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UCK0fxZHpWsJuVxtEwM-8VVg",
-    "type": "channel",
-    "name": "Tran Nhat Phong Official",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UC33wNuFbzfpn1mPltiqgNBg",
-    "type": "channel",
-    "name": "Hai Yen TV",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UCEPTVUdhS3_Yfa9hye_cdzg",
-    "type": "channel",
-    "name": "ĐTN - Thời Sự Biển Đông",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UCG2KNKALUb3ho5frJHfeRVw",
-    "type": "channel",
-    "name": "Huy Đức TV - VNN TV",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UCH0l6tT7huS3DVY0zw9efqQ",
-    "type": "channel",
-    "name": "Người Việt Quốc Gia",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UCedhIhWwTYnoPvR-o62Oa8g",
-    "type": "channel",
-    "name": "TIN TUC 24H",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UCgNTOmQDvYWDVfO-ZthhesQ",
-    "type": "channel",
-    "name": "VÔ DANH CHANNEL",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UCyennKsGrA7BS9G76LSm24w",
-    "type": "channel",
-    "name": "THÔNG TIN ĐA CHIỀU",
-    "org": "Việt Tân"
-  },
-  {
-    "youtubeid": "UCdVthH_ubDdqcRzihl3NMgQ",
-    "type": "channel",
-    "name": "Nước Mỹ Trở Lại",
-    "org": "Unknown"
-  },
-  {
-    "youtubeid": "UC8-ewW-AVoF-BedtFg8XJfA",
-    "type": "channel",
-    "name": "Cô Cẩm Thuý",
-    "org": "Việt Tân (Nghi ngờ)"
-  },
-  {
-    "youtubeid": "UCMyw4BUhRjcULbF8ujp4jxw",
-    "type": "channel",
-    "name": "Cô Cẩm Thuý-2",
-    "org": "Việt Tân (Nghi ngờ)"
-  },
-  {
-    "youtubeid": "UCI8U_NB23FbKPly8gIEdLmA",
-    "type": "channel",
-    "name": "VIETLIVE.TV",
-    "org": "Việt Tân (Nghi ngờ)"
-  },
-  {
-    "youtubeid": "UCMA6UuQaDxK5x6l0JCh3Gcg",
-    "type": "channel",
-    "name": "VIETLIVE.TV-2",
-    "org": "Việt Tân (Nghi ngờ)"
-  },
-  {
-    "youtubeid": "UC0Dxq_MEs0Al_YVkIliEtrQ",
-    "type": "channel",
-    "name": "Thanh Kha",
-    "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
-  },
-  {
-    "youtubeid": "UC0iGewLNVQz5A8nfL-3Rt0Q",
-    "type": "channel",
-    "name": "quoctachochiminh",
-    "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
-  },
-  {
-    "youtubeid": "UC0iGewLNVQz5A8nfL-3Rt0Q",
-    "type": "channel",
-    "name": "quoctachochiminh",
-    "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
-  },
+[{
+        "youtubeid": "UCs_qVVbQ0Oc-IuN-3JKWRZw",
+        "type": "channel",
+        "name": "N10Tv",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UCqe1gLP3zFDmcQ-HCjP1Xbg",
+        "type": "channel",
+        "name": "N10Tv-2",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UCJDyIKGZ9zpTKDTEXpivGZw",
+        "type": "channel",
+        "name": "Việt Tân",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UCJDyIKGZ9zpTKDTEXpivGZw",
+        "type": "channel",
+        "name": "RFA Tiếng Việt",
+        "org": "RFA"
+    },
+    {
+        "youtubeid": "UCRdD55JrlRDzHeec3bKrH4g",
+        "type": "channel",
+        "name": "VOA Tiếng Việt",
+        "org": "VOA"
+    },
+    {
+        "youtubeid": "UCzbwE8kBBVk-ZyP2QtNMAGw",
+        "type": "channel",
+        "name": "VIETV DC",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UC2sK_WvVrsT3CP825jpmIlg",
+        "type": "channel",
+        "name": "Vietnam's Nation Council Television",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UC-7aTmBwnvSANfF8FNAkq_g",
+        "type": "channel",
+        "name": "Saigon News",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UCxdIIeox5tjRKyzooPJwJkg",
+        "type": "channel",
+        "name": "Bonny Vlogs",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UC1BSSp03QV1bgpJxP9W3yEw",
+        "type": "channel",
+        "name": "PHONG TRAN",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UC3-i7r1eM2aSkDLmD46obWA",
+        "type": "channel",
+        "name": "Mối Hoạ Trung Hoa",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UC0knPfgf9GnP4JclyeSLFEQ",
+        "type": "channel",
+        "name": "trật tự thế giới",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UCK0fxZHpWsJuVxtEwM-8VVg",
+        "type": "channel",
+        "name": "Tran Nhat Phong Official",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UC33wNuFbzfpn1mPltiqgNBg",
+        "type": "channel",
+        "name": "Hai Yen TV",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UCEPTVUdhS3_Yfa9hye_cdzg",
+        "type": "channel",
+        "name": "ĐTN - Thời Sự Biển Đông",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UCG2KNKALUb3ho5frJHfeRVw",
+        "type": "channel",
+        "name": "Huy Đức TV - VNN TV",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UCH0l6tT7huS3DVY0zw9efqQ",
+        "type": "channel",
+        "name": "Người Việt Quốc Gia",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UCedhIhWwTYnoPvR-o62Oa8g",
+        "type": "channel",
+        "name": "TIN TUC 24H",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UCgNTOmQDvYWDVfO-ZthhesQ",
+        "type": "channel",
+        "name": "VÔ DANH CHANNEL",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UCyennKsGrA7BS9G76LSm24w",
+        "type": "channel",
+        "name": "THÔNG TIN ĐA CHIỀU",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UCdVthH_ubDdqcRzihl3NMgQ",
+        "type": "channel",
+        "name": "Nước Mỹ Trở Lại",
+        "org": "Unknown"
+    },
+    {
+        "youtubeid": "UC8-ewW-AVoF-BedtFg8XJfA",
+        "type": "channel",
+        "name": "Cô Cẩm Thuý",
+        "org": "Việt Tân (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCMyw4BUhRjcULbF8ujp4jxw",
+        "type": "channel",
+        "name": "Cô Cẩm Thuý-2",
+        "org": "Việt Tân (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCI8U_NB23FbKPly8gIEdLmA",
+        "type": "channel",
+        "name": "VIETLIVE.TV",
+        "org": "Việt Tân (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCMA6UuQaDxK5x6l0JCh3Gcg",
+        "type": "channel",
+        "name": "VIETLIVE.TV-2",
+        "org": "Việt Tân (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UC0Dxq_MEs0Al_YVkIliEtrQ",
+        "type": "channel",
+        "name": "Thanh Kha",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UC0iGewLNVQz5A8nfL-3Rt0Q",
+        "type": "channel",
+        "name": "quoctachochiminh",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCz7veAPSzI1gHWM8I_ENgEA",
+        "type": "channel",
+        "name": "cde7555",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCL2Ra5RakOGHTDE-dfS22Jw",
+        "type": "channel",
+        "name": "hochiminhdamduc",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCDyoUB9kJyWXPcv0uuLLNYg",
+        "type": "channel",
+        "name": "hochiminhchetsinh",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCRhR8RyB3GlxXfFy0TlH95Q",
+        "type": "channel",
+        "name": "Papy Voyeur",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UC1ZLReulPag5FZPZwyNppVg",
+        "type": "channel",
+        "name": "GIÁO DỤC TỰ DO 1",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UCyrUYLnUvoZU0XoGrhsNpNA",
+        "type": "channel",
+        "name": "Sean Le TV - Tiếng Nói Tự Do",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCrShGWPx9bXuZEXIDO51P3Q",
+        "type": "channel",
+        "name": "Vietnam Freedom Talk",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCg2J4rfxqkYr_8nLocsLYGA",
+        "type": "channel",
+        "name": "Tâm Thức Việt - Anh Chi",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCpTMeAox_3SMqIftTzioblA",
+        "type": "channel",
+        "name": "Thiên Thần Mũ Đỏ VNCH",
+        "org": "Việt Tân"
+    },
+    {
+        "youtubeid": "UC7bu_7hLnLxG7XHu__XqO9A",
+        "type": "channel",
+        "name": "Cong Binh Truong",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCKAC65HewSUyAhrWK6w7gtQ",
+        "type": "channel",
+        "name": "hoang phuong nguyen",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCupmmpXE0wZkwT_yRiA7BNA",
+        "type": "channel",
+        "name": "kai x 3",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCkhpKcxWjEnIRon3PsBS_tA",
+        "type": "channel",
+        "name": "Cánh Thép Channel",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCDCbpSKPfAki8RKGT_DKDqw",
+        "type": "channel",
+        "name": "SBTNOfficial",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCuhntT5TfRDDQ9YoRYzICNQ",
+        "type": "channel",
+        "name": "hoangphuongize",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCJaIV__dk_RfQJL6j0kh4cg",
+        "type": "channel",
+        "name": "danchimvietdotcom",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCXWSMWRaLywPqR__hCkTtlg",
+        "type": "channel",
+        "name": "Truyền Hình Việt Nam",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCeLiSaF20qtLcXwNIMU9kvg",
+        "type": "channel",
+        "name": "Thanh Pham",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCsa8l0w6j4bV1GLHf5w2eSg",
+        "type": "channel",
+        "name": "HỘI ĐỒNG CỨU VIỆT NAM",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UC52g_5p69_Z1umoNSFviUNg",
+        "type": "channel",
+        "name": "PhoBolsaTV",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCwojFp0es-zm2RUMBu0yWdg",
+        "type": "channel",
+        "name": "CongSanBacViet",
+        "org": "Việt Nam Cộng Hòa (Nghi ngờ)"
+    }
 ]
