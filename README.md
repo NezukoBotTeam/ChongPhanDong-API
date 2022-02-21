@@ -23,12 +23,15 @@ detected: Trạng thái của API đã phát hiện kênh nằm trong blacklist 
 ```
 ### Ví dụ API: 
 Example: https://chongphandong.cookiegmvn.xyz/api/v1/youtube/check?url=https://www.youtube.com/watch?v=wILjqOlsBjY
+
 Data trả về (JSON):
 ```json
 {"code":200,"detected":true,"channelName":"N10Tv","channelOrg":"Việt Tân"}
 ```
 
 Example: https://chongphandong.cookiegmvn.xyz/api/v1/youtube/check?url=https://www.youtube.com/watch?v=o6FnV96PXD8
+
+Data trả về (JSON):
 ```json
 {"code":200,"detected":false}
 ```
