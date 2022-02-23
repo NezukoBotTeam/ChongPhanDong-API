@@ -5,5 +5,12 @@
     "title": "LIÊN HIỆP HỘI ĐỒNG QUỐC DÂN VIỆT NAM",
     "poweredby": "WiX",
     "org": "LHHĐQDVN"
-  }
+  },
+  {
+    "url": "hoquanghcm.wordpress.com",
+    "type": "subdomain",
+    "title": "Thiếu tá HỒ QUANG",
+    "poweredby": "WiX",
+    "org": "Việt Tân (Nghi ngờ)"
+  },
 ]
