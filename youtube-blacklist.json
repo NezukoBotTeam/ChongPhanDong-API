@@ -328,5 +328,17 @@
         "type": "channel",
         "name": "Bác hồ vươn tầm bãi cức và gacha",
         "org": "Trẻ trâu muốn kiếm fame"
+    },
+    {
+        "youtubeid": "UClSiXq2uWQ6cYQi3M9WdhBg",
+        "type": "channel",
+        "name": "Đài Truyền Hình CHTV Việt Nam",
+        "org": "Lê Dũng Vova"
+    },
+    {
+        "youtubeid": "VOICEOurVoiceOurFuture",
+        "type": "channel",
+        "name": "Đài Truyền Hình CHTV Việt Nam",
+        "org": "Lê Dũng Vova"
     }
 ]
