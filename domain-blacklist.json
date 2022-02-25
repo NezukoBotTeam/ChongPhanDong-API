@@ -3,14 +3,84 @@
     "url": "lienhiephoi.wixsite.com",
     "type": "subdomain",
     "title": "LIÊN HIỆP HỘI ĐỒNG QUỐC DÂN VIỆT NAM",
-    "poweredby": "WiX",
+    "poweredBy": "WiX",
     "org": "LHHĐQDVN"
   },
   {
     "url": "hoquanghcm.wordpress.com",
     "type": "subdomain",
     "title": "Thiếu tá HỒ QUANG",
-    "poweredby": "WiX",
+    "poweredBy": "WiX",
     "org": "Việt Tân (Nghi ngờ)"
   },
+  {
+    "url": "chinhphuquocgia.com",
+    "type": "domain",
+    "title": "Chính Phủ Quốc Gia",
+    "poweredBy": "NaN",
+    "org": "Việt Nam Cộng Hòa"
+  },
+  {
+    "url": "phamvanlong.com",
+    "type": "domain",
+    "title": "Phạm Văn Long",
+    "poweredBy": "NaN",
+    "org": "Việt Nam Cộng Hòa"
+  },
+  {
+    "url": "cuutuchinhtri.com",
+    "type": "domain",
+    "title": "Cựu Tù Chính Trị",
+    "poweredBy": "NaN",
+    "org": "Việt Nam Cộng Hòa"
+  },
+  {
+    "url": "viettan.org",
+    "type": "domain",
+    "title": "Việt Tân",
+    "poweredBy": "NaN",
+    "org": "Việt Tân"
+  },
+  {
+    "url": "truong-chinh.blogspot.com",
+    "type": "subdomain",
+    "title": "Trường Chinh",
+    "poweredBy": "Blogspot",
+    "org": "Việt Nam Cộng Hòa"
+  },
+  {
+    "url": "vietnamdaily.com",
+    "type": "domain",
+    "title": "VietNamDaily",
+    "poweredBy": "NaN",
+    "org": "Việt Nam Cộng Hòa"
+  },
+  {
+    "url": "batkhuat.net",
+    "type": "domain",
+    "title": "Bất Khuất",
+    "poweredBy": "NaN",
+    "org": "Việt Nam Cộng Hòa"
+  },
+  {
+    "url": "tvbqgvn.org",
+    "type": "domain",
+    "title": "TRƯỜNG VÕ BỊ QUỐC GIA VIỆT NAM",
+    "poweredBy": "NaN",
+    "org": "Việt Nam Cộng Hòa"
+  },
+  {
+    "url": "buctranhvancau.com",
+    "type": "domain",
+    "title": "Bức Tranh Vân Cẩu",
+    "poweredBy": "NaN",
+    "org": "Việt Nam Cộng Hòa"
+  },
+  {
+    "url": "cpqgvnlt.com",
+    "type": "domain",
+    "title": "CPQGVNLT",
+    "poweredBy": "NaN",
+    "org": "Việt Nam Cộng Hòa"
+  }
 ]
