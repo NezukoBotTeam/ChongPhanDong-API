@@ -352,5 +352,29 @@
         "type": "channel",
         "name": "PhoBolsaTV",
         "org": "Phố Bolsa TV"
+    },
+    {
+        "youtubeid": "LISAPHẠM3SACH",
+        "type": "channel",
+        "name": "LISA PHAM Official",
+        "org": "Việt Tân (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCJWeUhTWBdMKg5GIVFVBxsw",
+        "type": "channel",
+        "name": "Lisapham Vlog",
+        "org": "Việt Tân (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCGqTxfLpqrXGdDCGcNaOKpA",
+        "type": "channel",
+        "name": "Lisa Phạm Vấn Đáp Official",
+        "org": "Việt Tân (Nghi ngờ)"
+    },
+    {
+        "youtubeid": "UCDeqG-C-VH7chNxwS-j0v6g",
+        "type": "channel",
+        "name": "Lisa Phạm Channel",
+        "org": "Việt Tân (Nghi ngờ)"
     }
 ]
