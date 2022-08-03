@@ -35,3 +35,19 @@ Data trả về (JSON):
 ```json
 {"code":200,"detected":false}
 ```
+# Proxy / DNS chống phản động :
+Nếu bạn hãy lướt web thấy tốc độ mạng chậm vl,sợ rơi vào những trang web phản động?
+
+Bạn có thể sử dụng NZKFLD Proxy DNS
+
+Cách sử dụng :
+
+- Cấu hình bằng NextDNS :
+Bật Use custom configuration
+
+Dán ID vào `Configuration ID`
+```
+acfa6e
+```
+
+Sau đó hãy quay về trang chủ,bật NextDNS lên.Tận hưởng thôi!!
